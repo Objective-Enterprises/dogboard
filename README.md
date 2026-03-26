@@ -1,6 +1,6 @@
 # Dogboard
 
-Dogboard is an image board for looking at dog pictures. It's a fullstack Express app with no React. It gets pictures form <dog.ceo/dog-api>
+Dogboard is an image board for looking at dog pictures. It's a fullstack Express app with no React. It gets pictures form <https://dog.ceo/dog-api>
 
 ## Database
 
