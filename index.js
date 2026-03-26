@@ -3,8 +3,10 @@ const axios = require('axios');
 const path = require('path');
 const { db, favorites } = require('./db');
 
+console.log('App starting...');
+
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));

@@ -22,4 +22,4 @@ Show a favorite button that saves the current picture to the database and naviga
 
 ### Favorites ('/favorites')
 
-The favorits page shows a list of all the favorited dog pictures in cards.
+The favorits page shows a list of all the favorited dog pictures in cards. The favorites page has a black background.
