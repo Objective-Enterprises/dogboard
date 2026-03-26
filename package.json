@@ -1,0 +1,23 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "Dogboard is an image board for looking at dog pictures. It's a fullstack Express app with no React. It gets pictures form <dog.ceo/dog-api>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "better-sqlite3": "^12.8.0",
+    "drizzle-orm": "^0.45.1",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.10"
+  }
+}
